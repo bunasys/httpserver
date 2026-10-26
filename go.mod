@@ -2,4 +2,4 @@ module github.com/banan-tech/httpserver
 
 go 1.25
 
-require github.com/ivov/lisette/prelude v0.12.0
+require github.com/ivov/lisette/prelude v0.12.5
